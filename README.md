@@ -1,6 +1,6 @@
-Hi, I'm Saloni Kareer :wave: :hammer_and_spanner: Software Engineer | MERN Stack Developer | Frontend Developer
+Hi, I'm Saloni Kareer | Software Engineer | MERN Stack Developer | Frontend Developer
 I am a software engineer with 2+ years of experience building scalable, responsive, and high-performance web applications across the frontend and backend. I work with React, Next.js, TypeScript, Node.js, NestJS, and MongoDB, and enjoy turning complex requirements into intuitive, user-friendly products.
-:telescope: What I'm Working On
+ What I'm Working On
 Community Platform with Admin Portal (Yrj Technology)
 
 • Built an Instagram-style community platform with public and private communities, posts, reels, stories, messaging, and friend requests using Next.js, Tailwind CSS, NestJS, Fastify, Firebase, and Swagger..
